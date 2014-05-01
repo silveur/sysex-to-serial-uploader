@@ -1,5 +1,5 @@
 /**
-@file SeaHeader.h
+@file main.c
 @author  Silvere Letellier
 @author silvere.letellier@gmail.com
 @version 1.0
